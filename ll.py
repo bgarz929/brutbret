@@ -211,7 +211,7 @@ def get_data(db_path, address):
 
 if __name__ == "__main__":
     DB = "valid_nonce_reuse.db"
-    ADDR = "1KKhHFjERpq7fPYRDp66FdD6Bk1fRfXkMi"
+    ADDR = "1L7p6TBo1B2bz2gL4QPY9bYtn97VjFnYNg"
     
     print(f"--- BITCOIN KEY RECOVERY TOOL ---")
     print(f"Target: {ADDR}")
